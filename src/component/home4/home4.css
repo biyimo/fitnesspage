@@ -1,0 +1,32 @@
+
+.home4{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #23262F;
+}
+
+.imgHome4{
+    width: 624px;
+    height: 748px;
+}
+
+.rightH4{
+    width: 544px;
+    height: 748px;
+    padding: 48px;
+    border-radius: 20px;
+    gap: 24px;
+
+}
+
+.infoH4{
+    width:  544px;
+    height: 748px;
+    padding: 48px;
+    border-radius: 20px;
+    gap: 24px;
+
+}

@@ -1,0 +1,48 @@
+.home2{
+    width: 100%;
+    height:  auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #141416;
+    /* display: flex; */
+}
+
+h2{
+    font-family: SF Pro Display;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    font-family: 'SF Pro Display', sans-serif;
+    color: #FCFCFD;
+}
+
+p{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #E6E8EC;
+}
+
+.steps{
+    margin-top: 70px;
+}
+
+.procedure{
+    margin-top: 50px;
+}
+
+.home2Div{
+    gap: 24px;
+    align-items: center;
+    justify-content: center;
+}
+
+.test{
+    padding-left: 250px;
+}
